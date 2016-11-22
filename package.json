@@ -1,0 +1,14 @@
+{
+  "name": "orderlist",
+  "version": "0.1.0",
+  "description": "Currency Rates",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "order",
+    "list"
+  ],
+  "author": "Ivan V Urvanov",
+  "license": "ISC"
+}
